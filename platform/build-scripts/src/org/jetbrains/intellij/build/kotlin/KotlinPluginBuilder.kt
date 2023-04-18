@@ -228,6 +228,8 @@ object KotlinPluginBuilder {
     "kotlinc.assignment-compiler-plugin",
     "kotlinc.kotlinx-serialization-compiler-plugin",
     "kotlinc.parcelize-compiler-plugin",
+    "kotlinc.parcelize-compiler-plugin-fe10",
+    "kotlinc.parcelize-compiler-plugin-fir",
     "kotlinc.lombok-compiler-plugin",
   )
 

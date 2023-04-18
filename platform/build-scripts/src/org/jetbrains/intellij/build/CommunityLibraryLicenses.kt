@@ -964,6 +964,8 @@ object CommunityLibraryLicenses {
     jetbrainsLibrary("kotlinc.low-level-api-fir"),
     jetbrainsLibrary("kotlinc.noarg-compiler-plugin"),
     jetbrainsLibrary("kotlinc.parcelize-compiler-plugin"),
+    jetbrainsLibrary("kotlinc.parcelize-compiler-plugin-fe10"),
+    jetbrainsLibrary("kotlinc.parcelize-compiler-plugin-fir"),
     jetbrainsLibrary("kotlinc.sam-with-receiver-compiler-plugin"),
     jetbrainsLibrary("kotlinc.symbol-light-classes"),
     jetbrainsLibrary("kotlinx-collections-immutable"),
